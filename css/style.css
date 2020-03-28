@@ -105,6 +105,7 @@
 .b_content button{
     font-family: sans-serif;
     border: none;
+    color:white;
     background-color: rgba(64, 68, 81, 0.8);
     border-radius: 3px;
     margin: 0px 0 45px 21px;
